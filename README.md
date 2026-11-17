@@ -2,7 +2,7 @@
 
 End-to-end analysis of the **RappiPlus** e-commerce service: data quality, profitability, conversion funnel, cohort retention, A/B testing and an interactive Tableau dashboard.
 
-**Live dashboard:** [Tableau Public]((https://public.tableau.com/app/profile/carlos.celis6323/viz/RappyPlusProyectobyCarlosCelis/Story1))
+**Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/carlos.celis6323/viz/RappyPlusProyectobyCarlosCelis/Story1)
 
 ![Dashboard preview](images/dashboard.png)
 
